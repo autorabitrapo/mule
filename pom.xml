@@ -39,6 +39,11 @@
 			<version>1.1.5</version>
 			<classifier>mule-plugin</classifier>
 		</dependency>
+		<dependency>
+			<groupId>util</groupId>
+			<artifactId>util</artifactId>
+			<version>11.0.0</version>
+		</dependency>
 	</dependencies>
 	
 </project>
