@@ -25,7 +25,12 @@
 			</plugin>
 		</plugins>
 	</build>
-	<dependencies>		
+	<dependencies>	
+		<dependency>
+    			<groupId>com.rapo.auto</groupId>
+    			<artifactId>rapo-auto</artifactId>
+    			<version>0.0.1-20221102.052823-1</version>
+		</dependency>
 		
 		<dependency>
 			<groupId>org.mule.connectors</groupId>
