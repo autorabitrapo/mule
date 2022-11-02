@@ -27,9 +27,9 @@
 	</build>
 	<dependencies>	
 		<dependency>
-    			<groupId>com.rapo.auto</groupId>
-    			<artifactId>rapo-auto</artifactId>
-    			<version>0.0.1-20221102.083112-1</version>
+		    <groupId>com.rapo.auto</groupId>
+		    <artifactId>rapo-auto</artifactId>
+		    <version>0.0.1-20221102.101359-1</version>
 		</dependency>
 		
 		<dependency>
