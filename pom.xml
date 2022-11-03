@@ -28,10 +28,10 @@
 	<dependencies>	
 		<dependency>
 		    <groupId>com.rapo.auto</groupId>
-		   <!--<artifactId>rapo-auto</artifactId>-->
-		    <!--version>0.0.1-20221102.101359-1</version>-->
-		   <artifactId>rapo-auto-private</artifactId>
-  		  <version>0.0.1-20221103.131945-1</version>
+		   <artifactId>rapo-auto</artifactId>
+		    version>0.0.1-20221102.101359-1</version>
+		  <!-- <artifactId>rapo-auto-private</artifactId>
+  		  <version>0.0.1-20221103.131945-1</version>-->
 		</dependency>
 		
 		<dependency>
