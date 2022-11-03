@@ -26,7 +26,7 @@
 		</plugins>
 	</build>
 	<dependencies>	
-		<dependencies>	
+		
 		<dependency>
     <groupId>com.rapo.auto</groupId>
     <artifactId>rapo-auto</artifactId>
