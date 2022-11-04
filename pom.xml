@@ -25,13 +25,12 @@
 			</plugin>
 		</plugins>
 	</build>
-	<dependencies>	
-		
+	<dependencies>			
 		<dependency>
-    <groupId>com.rapo.auto</groupId>
-    <artifactId>rapo-auto</artifactId>
-    <version>0.0.1-20221102.101359-1</version>
-</dependency>
+			<groupId>com.rapo.auto</groupId>
+			<artifactId>rapo-auto</artifactId>
+			<version>0.0.1-20221102.101359-1</version>
+		</dependency>
 		<dependency>
 			<groupId>com.private.repo</groupId>
 			<artifactId>private-repo</artifactId>
