@@ -32,6 +32,11 @@
     <artifactId>rapo-auto</artifactId>
     <version>0.0.1-20221102.101359-1</version>
 </dependency>
+		<dependency>
+			<groupId>com.private.repo</groupId>
+			<artifactId>private-repo</artifactId>
+			<version>0.0.1-20221104.073503-1</version>
+		</dependency>
 		
 		<dependency>
 			<groupId>org.mule.connectors</groupId>
