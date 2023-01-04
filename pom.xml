@@ -28,10 +28,10 @@
 	<dependencies>	
 		
 		<dependency>
-    <groupId>com.rapo.auto</groupId>
-    <artifactId>rapo-auto</artifactId>
-    <version>0.0.1-20230103.111709-1</version>
-</dependency>
+		    <groupId>com.rapo.auto</groupId>
+		    <artifactId>rapo-auto</artifactId>
+		    <version>0.0.1-20230104.064918-1</version>
+		</dependency>
 		
 		<dependency>
 			<groupId>org.mule.connectors</groupId>
