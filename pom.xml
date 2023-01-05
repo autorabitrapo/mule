@@ -30,7 +30,7 @@
 		<dependency>
 		    <groupId>com.rapo.auto</groupId>
 		    <artifactId>rapo-auto</artifactId>
-		    <version>0.0.1-20230104.064918-1</version>
+		    <version>0.0.1-20230105.083949-1</version>
 		</dependency>
 		
 		<dependency>
