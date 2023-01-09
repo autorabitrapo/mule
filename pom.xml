@@ -25,9 +25,10 @@
 			</plugin>
 		</plugins>
 	</build>
-	<dependencies>
-	<dependency>
-	<groupId>com.rapo.auto</groupId>
+	<dependencies>	
+		
+		<dependency>
+		    <groupId>com.rapo.auto</groupId>
 		    <artifactId>rapo-auto</artifactId>
 		    <version>0.0.1-20230105.083949-1</version>
 		</dependency>
@@ -44,30 +45,7 @@
 			<version>1.1.5</version>
 			<classifier>mule-plugin</classifier>
 		</dependency>
+		
 	</dependencies>
-	<repositories>
-          <repository>
-            <id>anypoint-exchange</id>
-            <name>Anypoint Exchange</name>
-            <url>https://maven.anypoint.mulesoft.com/api/v1/maven</url>
-            <layout>default</layout>
-        </repository>
-        <repository>
-            <id>mulesoft-releases</id>
-            <name>MuleSoft Releases Repository</name>
-            <url>https://repository.mulesoft.org/releases/</url>
-            <layout>default</layout>
-        </repository>
-    </repositories>
-    <pluginRepositories>
-        <pluginRepository>
-            <id>mulesoft-releases</id>
-            <name>mulesoft release repository</name>
-            <layout>default</layout>
-            <url>https://repository.mulesoft.org/releases/</url>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-        </pluginRepository>
-    </pluginRepositories>
+	
 </project>
